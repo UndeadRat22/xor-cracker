@@ -1,2 +1,2 @@
 # xor-cracker
-A repeating key cipher cracker in python
+A repeating key xor cipher cracker in python
